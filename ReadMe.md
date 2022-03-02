@@ -1,5 +1,5 @@
 # Alpha64 Encryption
-> Using Base64
+> Using Base64<br>
 > v1.1
 
 ### Installation Code:
