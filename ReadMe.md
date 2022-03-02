@@ -27,4 +27,5 @@
 ##### Show your support <3
 > [Donate](https://paypal.me/realsaiko)<br>
 > [Discord](https://discord.gg/PpqYechhcr)<br>
-> [Website](http://vezcodez.c1.biz)
+> [Website](http://vezcodez.c1.biz)<br>
+> [VirusTotal](https://www.virustotal.com/gui/file/57b8c64653624b33896a2a166341c890c62905f321e060c472635ce39acc645a?nocache=1)
