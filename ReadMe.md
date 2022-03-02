@@ -25,6 +25,6 @@
 ```
 
 ##### Show your support <3
-> [Donate](https://paypal.me/realsaiko)
-> [Discord](https://discord.gg/PpqYechhcr)
+> [Donate](https://paypal.me/realsaiko)<br>
+> [Discord](https://discord.gg/PpqYechhcr)<br>
 > [Website](http://vezcodez.c1.biz)
